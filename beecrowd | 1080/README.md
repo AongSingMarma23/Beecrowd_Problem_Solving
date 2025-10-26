@@ -7,4 +7,4 @@ Input:
 The input file contains 100 distinct positive integer numbers.
 
 Output:
-Print the highest number read and the input position of this value
+Print the highest number read and the input position of this value.
